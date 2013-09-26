@@ -1,0 +1,232 @@
+TTestCrash
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/Info.plist" TestCrash/TestCrash-Info.plist
+cProcessPCH /var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch.pth TestCrash/TestCrash-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/main.o "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/AppDelegate.o "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/NdUncaughtExceptionHandler.o "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash" normal i386
+cGenerateDSYMFile "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app.dSYM" "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash"
+cCopyStringsFile "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/en.lproj/InfoPlist.strings" TestCrash/en.lproj/InfoPlist.strings
+cTouch "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EE6DF6D0000000000000110
+t1323753325
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/AppDelegate.m
+c000000004EE9C61300000000000009BA
+t1323943443
+s2490
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m
+c000000004EE9C53C00000000000006AD
+t1323943228
+s1709
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/TestCrash-Prefix.pch
+c000000004EE9C5700000000000000141
+t1323943280
+s321
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/en.lproj/InfoPlist.strings
+c000000004EE9C570000000000000002D
+t1323943280
+s45
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/main.m
+c000000004EE9C5700000000000000158
+t1323943280
+s344
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app
+t2
+s0
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app.dSYM
+t2
+s0
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/Info.plist
+t2
+s0
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/PkgInfo
+t2
+s0
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash
+t2
+s0
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/NdUncaughtExceptionHandler.o
+t2
+s0
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/TestCrash.LinkFileList
+c000000004EE9C61400000000000001B2
+t1323943444
+s434
+
+N/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch.pth
+t2
+s0
+
+NTestCrash/TestCrash-Info.plist
+c000000004EE9C57000000000000005D7
+t1323943280
+s1495
+
+CBuild AST from "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m"
+r0
+
+CBuild AST from "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies53eb0594fd99b441^e0488094fd99b441^---0#1#0#--18"Check dependencies36"6F466638-DD12-47E3-9736-6FF57C0E27D5-
+
+CCompileC build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/AppDelegate.o "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345636247.738952
+e345636248.162200
+r1
+xCompileC
+xbuild/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/AppDelegate.o
+x/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/AppDelegate.md849bd97fd99b441^82e42998fd99b441^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/TestCrash/AppDelegate.m0000000000000000^2831"CompileC build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/AppDelegate.o TestCrash/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wangliang/Desktop/Test Project/TestCrash"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-generated-files.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-own-target-headers.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-all-target-headers.hmap" -iquote "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-project-headers.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/include" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/DerivedSources/i386" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/DerivedSources" "-F/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator" -include /var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch -MMD -MT dependencies -MF "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/AppDelegate.d" -c "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/AppDelegate.m" -o "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/AppDelegate.o"36"FCF8B87B-9756-48A5-8F0A-BC210C76EBD0-
+
+CCompileC build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/NdUncaughtExceptionHandler.o "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345636248.158883
+e345636248.250733
+r1
+xCompileC
+xbuild/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/NdUncaughtExceptionHandler.o
+x/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m:11:11: warning: no previous prototype for function 'applicationDocumentsDirectory' [-Wmissing-prototypes,3]
+o NSString *applicationDocumentsDirectory() {
+o           ^
+o/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m:17:6: warning: no previous prototype for function 'UncaughtExceptionHandler' [-Wmissing-prototypes,3]
+o void UncaughtExceptionHandler(NSException *exception) {
+o      ^
+o/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m:31:13: warning: unused variable 'date' [-Wunused-variable,12]
+o     NSDate *date = [NSDate date];
+o             ^
+o3 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m4fce2898fd99b441^350d4298fd99b441^-728"/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m:11:11: warning: no previous prototype for function 'applicationDocumentsDirectory' [-Wmissing-prototypes,3] NSString *applicationDocumentsDirectory() {           ^/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m:17:6: warning: no previous prototype for function 'UncaughtExceptionHandler' [-Wmissing-prototypes,3] void UncaughtExceptionHandler(NSException *exception) {      ^/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m:31:13: warning: unused variable 'date' [-Wunused-variable,12]     NSDate *date = [NSDate date];             ^3 warnings generated.3(21%IDEActivityLogMessage2@66"No previous prototype for function 'applicationDocumentsDirectory'-345636248#0#195#-1#-23%DVTTextDocumentLocation3@104"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m0000000000000000^10#10#10#10#18446744073709551615#0#14"Semantic Issue--2@61"No previous prototype for function 'UncaughtExceptionHandler'-345636248#253#189#-1#-3@104"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m0000000000000000^16#5#16#5#18446744073709551615#0#14"Semantic Issue--2@22"Unused variable 'date'-345636248#507#149#-1#-3@104"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m0000000000000000^30#12#30#12#18446744073709551615#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@104"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m0000000000000000^2906"CompileC build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/NdUncaughtExceptionHandler.o TestCrash/NdUncaughtExceptionHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wangliang/Desktop/Test Project/TestCrash"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-generated-files.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-own-target-headers.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-all-target-headers.hmap" -iquote "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-project-headers.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/include" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/DerivedSources/i386" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/DerivedSources" "-F/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator" -include /var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch -MMD -MT dependencies -MF "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/NdUncaughtExceptionHandler.d" -c "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/NdUncaughtExceptionHandler.m" -o "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/NdUncaughtExceptionHandler.o"36"50EF82F3-7D80-46FB-8EE4-38DFBF67A07D-
+
+CCompileC build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/main.o "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345636247.738365
+e345636248.157319
+r1
+xCompileC
+xbuild/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/main.o
+x/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/main.mbb25bd97fd99b441^3f562898fd99b441^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/TestCrash/main.m0000000000000000^2796"CompileC build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/main.o TestCrash/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wangliang/Desktop/Test Project/TestCrash"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-generated-files.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-own-target-headers.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-all-target-headers.hmap" -iquote "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-project-headers.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/include" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/DerivedSources/i386" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/DerivedSources" "-F/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator" -include /var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch -MMD -MT dependencies -MF "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/main.d" -c "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/main.m" -o "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/main.o"36"7C631915-28DA-4395-BDE9-349CFA4614F8-
+
+CCopyStringsFile "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/en.lproj/InfoPlist.strings" TestCrash/en.lproj/InfoPlist.strings
+s345636250.317364
+e345636250.321204
+r1
+xCopyStringsFile
+x/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/en.lproj/InfoPlist.strings
+xTestCrash/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy TestCrash/en.lproj/InfoPlist.strings6957519afd99b441^253b529afd99b441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/TestCrash/en.lproj/InfoPlist.strings0000000000000000^541"CopyStringsFile build/Debug-iphonesimulator/TestCrash.app/en.lproj/InfoPlist.strings TestCrash/en.lproj/InfoPlist.strings    cd "/Users/wangliang/Desktop/Test Project/TestCrash"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/en.lproj" -- TestCrash/en.lproj/InfoPlist.strings36"EE6071FF-FC1E-4358-9A94-5DD1C2718E0B-
+
+CGenerateDSYMFile "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app.dSYM" "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash"
+s345636250.042661
+e345636250.309047
+r1
+xGenerateDSYMFile
+x/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app.dSYM
+x/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Generating /Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app.dSYM08030b9afd99b441^fc1c4f9afd99b441^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app.dSYM00f4a8e8dcffdf42^538"GenerateDSYMFile build/Debug-iphonesimulator/TestCrash.app.dSYM build/Debug-iphonesimulator/TestCrash.app/TestCrash    cd "/Users/wangliang/Desktop/Test Project/TestCrash"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash" -o "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app.dSYM"36"6EDBAE28-1920-4D66-951D-CD9CB2D25903-
+
+CLd "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash" normal i386
+s345636248.281338
+e345636250.035144
+r1
+xLd
+x/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash0c204898fd99b441^daff089afd99b441^---0#0#0#--1100"Ld build/Debug-iphonesimulator/TestCrash.app/TestCrash normal i386    cd "/Users/wangliang/Desktop/Test Project/TestCrash"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk "-L/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator" "-F/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator" -filelist "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/Objects-normal/i386/TestCrash.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/TestCrash"36"C8EEAAF9-99CE-46D4-B95E-734BA491577E-
+
+CProcessInfoPlistFile "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/Info.plist" TestCrash/TestCrash-Info.plist
+s345636244.533414
+e345636244.738779
+r1
+xProcessInfoPlistFile
+x/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/Info.plist
+xTestCrash/TestCrash-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process TestCrash/TestCrash-Info.plist19ac8894fd99b441^9f20bd94fd99b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/TestCrash/TestCrash-Info.plist0000000000000000^633"ProcessInfoPlistFile build/Debug-iphonesimulator/TestCrash.app/Info.plist TestCrash/TestCrash-Info.plist    cd "/Users/wangliang/Desktop/Test Project/TestCrash"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestCrash/TestCrash-Info.plist -genpkginfo "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app/Info.plist"36"5CFAEB26-1DD6-42F7-B5B8-BD520FCB0A6F-
+
+CProcessPCH /Users/wangliang/Library/Developer/Xcode/DerivedData/TestCrash-csuhkhmrgsrimiaapxwifsfrtfnt/Index/PrecompiledHeaders/TestCrash-Prefix-aaksrbwemqhgdjgxowjvsrehvtff_ast/TestCrash-Prefix.pch.pth TestCrash/TestCrash-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch.pth TestCrash/TestCrash-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345636244.748317
+e345636247.731982
+r1
+xProcessPCH
+x/var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch.pth
+xTestCrash/TestCrash-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile TestCrash/TestCrash-Prefix.pchcec5bf94fd99b441^8671bb97fd99b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/wangliang/Desktop/Test%20Project/TestCrash/TestCrash/TestCrash-Prefix.pch0000000000000000^2795"ProcessPCH /var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch.pth TestCrash/TestCrash-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/wangliang/Desktop/Test Project/TestCrash"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-generated-files.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-own-target-headers.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-all-target-headers.hmap" -iquote "/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/TestCrash-project-headers.hmap" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/include" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/DerivedSources/i386" "-I/Users/wangliang/Desktop/Test Project/TestCrash/build/TestCrash.build/Debug-iphonesimulator/TestCrash.build/DerivedSources" "-F/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator" -c "/Users/wangliang/Desktop/Test Project/TestCrash/TestCrash/TestCrash-Prefix.pch" -o /var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/c2/12hqxt5j0cv8p3lyvq65p57m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestCrash-Prefix-cxvbpnubsarzpccujtywatqpnftw/TestCrash-Prefix.pch.d36"23FDE878-FA88-4141-B216-95807B2CF5CF-
+
+CTouch "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app"
+s345636250.330165
+e345636250.404024
+r1
+xTouch
+x/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Touch /Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app9a96549afd99b441^c173679afd99b441^---0#0#0#--350"Touch build/Debug-iphonesimulator/TestCrash.app    cd "/Users/wangliang/Desktop/Test Project/TestCrash"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/wangliang/Desktop/Test Project/TestCrash/build/Debug-iphonesimulator/TestCrash.app"36"E282EE95-BD13-4908-B9FB-1178E4B10BD7-
+

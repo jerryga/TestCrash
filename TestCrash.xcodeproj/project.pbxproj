@@ -1,0 +1,269 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EF83B1521499FCF000D66C08 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF83B1511499FCF000D66C08 /* UIKit.framework */; };
+		EF83B1541499FCF000D66C08 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF83B1531499FCF000D66C08 /* Foundation.framework */; };
+		EF83B1561499FCF000D66C08 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF83B1551499FCF000D66C08 /* CoreGraphics.framework */; };
+		EF83B15C1499FCF000D66C08 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EF83B15A1499FCF000D66C08 /* InfoPlist.strings */; };
+		EF83B15E1499FCF000D66C08 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EF83B15D1499FCF000D66C08 /* main.m */; };
+		EF83B1621499FCF000D66C08 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EF83B1611499FCF000D66C08 /* AppDelegate.m */; };
+		EF83B16A1499FD1C00D66C08 /* NdUncaughtExceptionHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = EF83B1691499FD1C00D66C08 /* NdUncaughtExceptionHandler.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		EF83B14D1499FCF000D66C08 /* TestCrash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestCrash.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF83B1511499FCF000D66C08 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		EF83B1531499FCF000D66C08 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EF83B1551499FCF000D66C08 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		EF83B1591499FCF000D66C08 /* TestCrash-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestCrash-Info.plist"; sourceTree = "<group>"; };
+		EF83B15B1499FCF000D66C08 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EF83B15D1499FCF000D66C08 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EF83B15F1499FCF000D66C08 /* TestCrash-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestCrash-Prefix.pch"; sourceTree = "<group>"; };
+		EF83B1601499FCF000D66C08 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EF83B1611499FCF000D66C08 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EF83B1681499FD1C00D66C08 /* NdUncaughtExceptionHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NdUncaughtExceptionHandler.h; sourceTree = "<group>"; };
+		EF83B1691499FD1C00D66C08 /* NdUncaughtExceptionHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NdUncaughtExceptionHandler.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EF83B14A1499FCF000D66C08 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF83B1521499FCF000D66C08 /* UIKit.framework in Frameworks */,
+				EF83B1541499FCF000D66C08 /* Foundation.framework in Frameworks */,
+				EF83B1561499FCF000D66C08 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EF83B1421499FCEF00D66C08 = {
+			isa = PBXGroup;
+			children = (
+				EF83B1571499FCF000D66C08 /* TestCrash */,
+				EF83B1501499FCF000D66C08 /* Frameworks */,
+				EF83B14E1499FCF000D66C08 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EF83B14E1499FCF000D66C08 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EF83B14D1499FCF000D66C08 /* TestCrash.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EF83B1501499FCF000D66C08 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EF83B1511499FCF000D66C08 /* UIKit.framework */,
+				EF83B1531499FCF000D66C08 /* Foundation.framework */,
+				EF83B1551499FCF000D66C08 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EF83B1571499FCF000D66C08 /* TestCrash */ = {
+			isa = PBXGroup;
+			children = (
+				EF83B1681499FD1C00D66C08 /* NdUncaughtExceptionHandler.h */,
+				EF83B1691499FD1C00D66C08 /* NdUncaughtExceptionHandler.m */,
+				EF83B1601499FCF000D66C08 /* AppDelegate.h */,
+				EF83B1611499FCF000D66C08 /* AppDelegate.m */,
+				EF83B1581499FCF000D66C08 /* Supporting Files */,
+			);
+			path = TestCrash;
+			sourceTree = "<group>";
+		};
+		EF83B1581499FCF000D66C08 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EF83B1591499FCF000D66C08 /* TestCrash-Info.plist */,
+				EF83B15A1499FCF000D66C08 /* InfoPlist.strings */,
+				EF83B15D1499FCF000D66C08 /* main.m */,
+				EF83B15F1499FCF000D66C08 /* TestCrash-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EF83B14C1499FCF000D66C08 /* TestCrash */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF83B1651499FCF000D66C08 /* Build configuration list for PBXNativeTarget "TestCrash" */;
+			buildPhases = (
+				EF83B1491499FCF000D66C08 /* Sources */,
+				EF83B14A1499FCF000D66C08 /* Frameworks */,
+				EF83B14B1499FCF000D66C08 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TestCrash;
+			productName = TestCrash;
+			productReference = EF83B14D1499FCF000D66C08 /* TestCrash.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EF83B1441499FCEF00D66C08 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = EF83B1471499FCF000D66C08 /* Build configuration list for PBXProject "TestCrash" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EF83B1421499FCEF00D66C08;
+			productRefGroup = EF83B14E1499FCF000D66C08 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EF83B14C1499FCF000D66C08 /* TestCrash */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EF83B14B1499FCF000D66C08 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF83B15C1499FCF000D66C08 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EF83B1491499FCF000D66C08 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF83B15E1499FCF000D66C08 /* main.m in Sources */,
+				EF83B1621499FCF000D66C08 /* AppDelegate.m in Sources */,
+				EF83B16A1499FD1C00D66C08 /* NdUncaughtExceptionHandler.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EF83B15A1499FCF000D66C08 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EF83B15B1499FCF000D66C08 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EF83B1631499FCF000D66C08 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EF83B1641499FCF000D66C08 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EF83B1661499FCF000D66C08 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TestCrash/TestCrash-Prefix.pch";
+				INFOPLIST_FILE = "TestCrash/TestCrash-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		EF83B1671499FCF000D66C08 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TestCrash/TestCrash-Prefix.pch";
+				INFOPLIST_FILE = "TestCrash/TestCrash-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EF83B1471499FCF000D66C08 /* Build configuration list for PBXProject "TestCrash" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF83B1631499FCF000D66C08 /* Debug */,
+				EF83B1641499FCF000D66C08 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF83B1651499FCF000D66C08 /* Build configuration list for PBXNativeTarget "TestCrash" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF83B1661499FCF000D66C08 /* Debug */,
+				EF83B1671499FCF000D66C08 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EF83B1441499FCEF00D66C08 /* Project object */;
+}
